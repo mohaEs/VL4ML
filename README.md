@@ -6,6 +6,9 @@ This repository contains the source codes of the experiments mentioned in the pa
 
 
 
+
+![picture](fig.png)
+
 For each experiment there is a subdirectory which you can find the relative codes and readme. The experiments are as follow:
 
 - Classification of the patient survival in Intensive Care Unit (ICU): In this case, the tabular data from electronic health records (EHR) are fed to the network to produce visualized survival status using distinct colors in a 23x23 image. 
