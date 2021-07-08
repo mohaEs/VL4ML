@@ -37,3 +37,9 @@ Indeed the data subdirectory should contains _resizedversion_256x256_drid_ folde
 > python Pr_Tensorization_v4_color.py
 
 It will produce the results in a folder named "v4"
+
+
+
+<p align="center">
+<img src="fig.png" alt="drawing" width=80%/>
+</p>

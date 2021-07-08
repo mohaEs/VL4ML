@@ -1,5 +1,9 @@
 
 </br>
+
+<p align="center">
+<img src="fig.png" alt="drawing" width=80%/>
+</p>
 </br>
 
 1- Unzip the prepared data: </br>

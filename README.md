@@ -6,8 +6,9 @@ This repository contains the source codes of the experiments mentioned in the pa
 
 
 
-
-![picture](fig.png)
+<p align="center">
+<img src="fig.png" alt="drawing" width=80%/>
+</p>
 
 For each experiment there is a subdirectory which you can find the relative codes and readme. The experiments are as follow:
 

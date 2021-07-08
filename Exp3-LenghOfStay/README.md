@@ -1,5 +1,8 @@
 
 </br>
+<p align="center">
+<img src="fig.png" alt="drawing" width=80%/>
+</p>
 </br>
 
 For this data preparation the approach shared in the following resource is used:</br>

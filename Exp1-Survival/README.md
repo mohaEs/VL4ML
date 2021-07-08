@@ -13,3 +13,8 @@ https://www.kaggle.com/c/widsdatathon2020/
 It will produce test results in the subdirectory "1".
 
 A exemplary results are aviable in the 1.zip file.
+
+
+<p align="center">
+<img src="fig.png" alt="drawing" width=80%/>
+</p>
