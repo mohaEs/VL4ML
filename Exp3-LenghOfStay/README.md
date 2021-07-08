@@ -5,7 +5,7 @@
 </p>
 </br>
 
-For this data preparation the approach shared in the following resource is used:</br>
+For this data preparation, the approach shared in the following resource is used:</br>
 https://github.com/daniel-codes/hospital-los-predictor
 
 1- Download MIT MIMIC-III from: </br>
