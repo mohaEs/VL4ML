@@ -16,6 +16,8 @@ Indeed the data subdirectory should contains _resizedversion_256x256_drid_ folde
 It will produce the results in a folder named "v4_DE"
 
 <p align="center">
-<img src="fig.png" alt="drawing" width=80%/>
+<img src="fig_2.png" alt="drawing" width=80%/>
 </p>
 
+
+For more results and case studies, consider ReadME_crossvalidation.
