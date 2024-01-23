@@ -18,5 +18,5 @@ _ICUSTAYS.csv_ </br>
 _PATIENTS.csv_ </br>
 
 3- execute:
-> python Pr_Tensorization_v0.py
+> python Pr_Tensorization_v1_DeepEnsemble.py
 
