@@ -1,9 +1,9 @@
 # VL4ML
- Visualized Learnign for Machine Learning
+ Visualized Learning for Machine Learning
 
 
 This repository contains the source codes of the experiments mentioned in the paper:
-
+https://doi.org/10.48550/arXiv.2205.04599
 
 
 <p align="center">
