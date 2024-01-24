@@ -22,7 +22,7 @@ For each experiment there is a subdirectory which you can find the relative code
 
 ## requirements:
 
-For these experiemtns, python 3.7 and Keras of Tensorflow 2.4.0 are used. </br>
+For these experiments, python 3.7 and Keras of Tensorflow 2.9.0 (also 2.4.0) are used. </br>
 You can also consider the requirements.txt
 
 
